@@ -1,0 +1,21 @@
+Copyright (c) 2026 OPTMX. All Rights Reserved.
+
+PROPRIETARY AND CONFIDENTIAL
+
+This software and its associated documentation (the "Software") are the proprietary property of the Author. The Software is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
+
+1. LICENSE RESTRICTIONS
+You may not:
+a) Copy, reproduce, modify, or create derivative works of the Software;
+b) Distribute, sell, lease, rent, lend, sub-license, or otherwise transfer the Software to any third party;
+c) Decompile, reverse engineer, disassemble, or attempt to derive the source code of the Software;
+d) Remove, alter, or obscure any proprietary notices, labels, or marks from the Software;
+e) Use the Software for any commercial purpose without explicit written consent.
+
+2. NON-COPY CLAUSE
+This is a closed-source, proprietary release. No permission is granted to duplicate, distribute, or host this script on public repositories (e.g., GitHub, GitLab) or forums. The Software is provided strictly for personal use on a single machine.
+
+3. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+By using this Software, you agree to be bound by the terms and conditions of this License Agreement. If you do not agree to these terms, you must delete this file immediately.
