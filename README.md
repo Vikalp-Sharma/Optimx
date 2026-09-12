@@ -10,7 +10,7 @@
 
 ╔════════════════════════════════════════════════════════════════════════════╗
 ║                                                                            ║
-║                     ⚡ O P T I M I Z E   E V E R Y T H I N G ⚡           ║
+║                     ⚡ O P T I M I Z E   E V E R Y T H I N G ⚡            ║
 ║                                                                            ║
 ║          Ultimate Windows 11 Performance • Privacy • Network Tool          ║
 ║                                                                            ║
